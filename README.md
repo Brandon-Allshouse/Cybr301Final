@@ -99,14 +99,6 @@ Cybr301Final/
 
 ---
 
-## 🛠 Future Improvements
-
-- Admin panel to review submissions
-- Email notifications
-- Pagination and file previews
-
----
-
 ## 📄 License
 
 This project was built for educational purposes as part of the CYBR 301 course.
